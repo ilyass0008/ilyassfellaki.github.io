@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="serie3.css">
+</head>
+<body>
+
+	<header><h2>Développement web</h2></header>
+
+	<aside>
+		<div class="hadi4">
+			<input type="submit" value="HTML">
+			<input type="submit" name="CSS">
+			<input type="submit" name="Contact">
+			
+		</div>
+		<div class="hadi">
+		<p>Incorporer un fichier Photoshop (.psd) ou Illustrator (.ai) dans un autre, en préservant l'original et en répercutant les modifications de l'original sur l'objet dynamique <br>
+Faire des modifications non destructives (par exemple réduire la taille d'un calque tout en pouvant l'augmenter plus tard, sans perte de qualité due à la réduction)<br>
+En fait il s'agit simplement d'un "conteneur" qui abrite soit une image bitmap soit une image vectorielle.
+</p>
+      </div>
+
+      <div class="hadi3">
+      	<iframe src="9.jpg" width="280px" height="405px"></iframe> 
+      	
+      </div>
+	</aside>
+
+
+	
+
+	<article class="hadi2">
+		<p>Depuis les années 1970, le monde du travail a connu, dans les pays industrialisés, de nombreuses transformations. L’une d’entre elles concerne l’accroissement du chômage. Celui-ci constitue aujourd’hui un problème de premier ordre. En 2004, dans l’Union européenne des 15 pays membres, selon l’enquête sur les forces de travail, 136 millions de personnes sont inactives et 14 millions et demi sont sans emploi. Mais ce dernier chiffre sous-estime largement l’ampleur réelle du chômage. En effet, basé sur la définition du Bureau International du Travail (BIT), il inclut uniquement les personnes qui n’ont pas travaillé au moins une heure contre rémunération (en espèces ou en nature) comme salarié, indépendant, apprenti ou aide durant la semaine prise pour référence dans le cadre de l’enquête, qui ont cherché de manière active un emploi pendant les quatre semaines qui la précèdent et qui sont prêtes à se mettre au travail dans un délai de deux semaines maximum (Jouette S. et Romans F., 2005). Il exclut dès lors un nombre considérable d’individus, notamment parce qu’ils ont suivi, durant cette semaine de référence, une formation professionnelle ou parce qu’ils ont accepté de travailler une fraction de leur temps pour échapper au chômage total, ou encore parce qu’ils n’ont pas postulé d’emplois, momentanément découragés par une longue recherche infructueuse.<br>
+		Le chômage correspond donc initialement à une période récurrente d'entraves (ex sécheresse, tempête, chute de neige, inondation) à une activité de subsistance (ex agriculture) ou d'échange (ex transport fluvial) comme au bon fonctionnement de moyens techniques de transformation des matières liée à des conditions favorables et à la disponibilité de l'eau
+En reprenant les exemples évoqués : la sécheresse provoquant les basses eaux, les pluies ou la fonte des neiges entraînant inondations, voire dommages entravant l'utilisation des moulins et biefs / canaux / arrivées d'eau, allant jusqu'à générer la famine entravant à son tour l'utilisation de la force de traction des animaux domestiques, etc.).
+Ce n'est qu'à partir du XIXe siècle avec l’avènement de l'industrialisation et les restructurations des moyens de subsistance puis de production, que le chômage prend une dimension sociologique, créant un nouveau contexte économique extrêmement distant de l'environnement jusque-là quasiment naturel d'une civilisation donnée, et provoquant l'inactivité d'importants groupes d'êtres humains malgré leur capacité de travail4. 
+Le défaut de considération de l'origine étymologique du terme en fausse l'analyse historique et a pour conséquence directe la confusion du chômage avec la pauvreté ayant pour effet 
+Le chômage correspond donc initialement à une période récurrente d'entraves (ex sécheresse, tempête, chute de neige, inondation) à une activité de subsistance (ex agriculture) ou d'échange (ex transport fluvial) comme au bon fonctionnement de moyens techniques de transformation des matières liée à des conditions favorables et à la disponibilité de l'eau
+En reprenant les exemples évoqués : la sécheresse provoquant les basses eaux, les pluies ou la fonte des neiges entraînant inondations, voire dommages entravant l'utilisation des moulins et biefs / canaux / arrivées d'eau, allant jusqu'à générer la famine entravant à son tour l'utilisation de la force de traction des animaux domestiques, etc.).
+Ce n'est qu'à partir du XIXe siècle avec l’avènement de l'industrialisation et les restructurations des moyens de subsistance puis de production, que le chômage prend une dimension sociologique, créant un nouveau contexte économique extrêmement distant de l'environnement jusque-là quasiment naturel d'une civilisation donnée, et provoquant l'inactivité d'importants groupes d'êtres humains malgré leur capacité de travail4. 
+Le défaut de considération de l'origine étymologique du terme en fausse l'analyse historique et a pour conséquence directe la confusion du chômage avec la pauvreté ayant pour effet Le chômage correspond donc initialement à une période récurrente d'entraves (ex sécheresse, tempête, chute de neige, inondation) à une activité de subsistance (ex agriculture) ou d'échange (ex transport fluvial) comme au bon fonctionnement de moyens techniques de transformation des matières liée à des conditions favorables et à la disponibilité de l'eau
+En reprenant les exemples évoqués : la sécheresse provoquant les basses eaux, les pluies ou la fonte des neiges entraînant inondations, voire dommages entravant l'utilisation des moulins et biefs / canaux / arrivées d'eau, allant jusqu'à générer la famine entravant à son tour l'utilisation de la force de traction des animaux domestiques, etc.).
+Ce n'est qu'à partir du XIXe siècle avec l’avènement de l'industrialisation et les restructurations des moyens de subsistance puis de production, que le chômage prend une dimension sociologique, créant un nouveau contexte économique extrêmement distant de l'environnement jusque-là quasiment naturel d'une civilisation donnée, et provoquant l'inactivité d'importants groupes d'êtres humains malgré leur capacité de travail4. 
+Le défaut de considération de l'origine étymologique du terme en fausse l'analyse historique et a pour conséquence directe la confusion du chômage avec la pauvreté ayant pour effet Le chômage correspond donc initialement à une période récurrente d'entraves (ex sécheresse, tempête, chute de neige, inondation) à une activité de subsistance (ex agriculture) ou d'échange (ex transport fluvial) comme au bon fonctionnement de moyens techniques de transformation des matières liée à des conditions favorables et à la disponibilité de l'eau
+En reprenant les exemples évoqués : la sécheresse provoquant les basses eaux, les pluies ou la fonte des neiges entraînant inondations, voire dommages entravant l'utilisation des moulins et biefs / canaux / arrivées d'eau, allant jusqu'à générer la famine entravant à son tour l'utilisation de la force de traction des animaux domestiques, etc.).
+Ce n'est qu'à partir du XIXe siècle avec l’avènement de l'industrialisation et les restructurations des moyens de subsistance puis de production, que le chômage prend une dimension sociologique, créant un nouveau contexte économique extrêmement distant de l'environnement jusque-là quasiment naturel d'une civilisation donnée, et provoquant l'inactivité d'importants groupes d'êtres humains malgré leur capacité de travail4. 
+Le défaut de considération de l'origine étymologique du terme en fausse l'analyse historique et a pour conséquence directe la confusion du chômage avec la pauvreté ayant pour effet Le chômage correspond donc initialement à une période récurrente d'entraves (ex sécheresse, tempête, chute de neige, inondation) à une activité de subsistance (ex agriculture) ou d'échange (ex transport fluvial) comme au bon fonctionnement de moyens techniques de transformation des matières liée à des conditions favorables et à la disponibilité de l'eau
+En reprenant les exemples évoqués : la sécheresse provoquant les basses eaux, les pluies ou la fonte des neiges entraînant inondations, voire dommages entravant l'utilisation des moulins et biefs / canaux / arrivées d'eau, allant jusqu'à générer la famine entravant à son tour l'utilisation de la force de traction des animaux domestiques, etc.).
+Ce n'est qu'à partir du XIXe siècle avec l’avènement de l'industrialisation et les restructurations des moyens de subsistance puis de production, que le chômage prend une dimension sociologique, créant un nouveau contexte économique extrêmement distant de l'environnement jusque-là quasiment naturel d'une civilisation donnée, et provoquant l'inactivité d'importants groupes d'êtres humains malgré leur capacité de travail4. 
+Le défaut de considération de l'origine étymologique du terme en fausse l'analyse historique et a pour conséquence directe la confusion du chômage avec la pauvreté ayant pour effet Le chômage correspond donc initialement à une période récurrente d'entraves (ex sécheresse, tempête, chute de neige, inondation) à une activité de subsistance (ex agriculture) ou d'échange (ex transport fluvial) comme au bon fonctionnement de moyens techniques de transformation des matières liée à des conditions favorables et à la disponibilité de l'eau
+En reprenant les exemples évoqués : la sécheresse provoquant les basses eaux, les pluies ou la fonte des neiges entraînant inondations, voire dommages entravant l'utilisation des moulins et biefs / canaux / arrivées d'eau, allant jusqu'à générer la famine entravant à son tour l'utilisation de la force de traction des animaux domestiques, etc.).
+Ce n'est qu'à partir du XIXe siècle avec l’avènement de l'industrialisation et les restructurations des moyens de subsistance puis de production, que le chômage prend une dimension sociologique, créant un nouveau contexte économique extrêmement distant de l'environnement jusque-là quasiment naturel d'une civilisation donnée, et provoquant l'inactivité d'importants groupes d'êtres humains malgré leur capacité de travail4. 
+Le défaut de considération de l'origine étymologique du terme en fausse l'analyse historique et a pour conséquence directe la confusion du chômage avec la pauvreté ayant pour effet </p>
+	</article>
+     
+     <footer>
+     	contact:<a href="#">mcw@gmail.com</a>
+     </footer>
+     
+     <
+
+
+</body>
+</html>
